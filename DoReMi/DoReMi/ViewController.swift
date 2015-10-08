@@ -24,7 +24,7 @@ class ViewController: UIViewController, UITableViewDataSource {
         ["text" : "Fa", "detail" : "A long long way to run."],
         ["text" : "So", "detail" : "A needle pulling thread."],
         ["text" : "La", "detail" : "A note to follow So."],
-        ["text" : "Ti", "detail" : "A drink with jam and bread."]
+        ["text" : "Si", "detail" : "A drink with jam and bread."]
     ]
     
     // Add the two essential table data source methods here
